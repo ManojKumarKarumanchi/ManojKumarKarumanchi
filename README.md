@@ -1,57 +1,23 @@
-# 👋 Hi, I'm Manoj Kumar Karumanchi
+<h1 align="center">Hi 👋, I'm Manoj</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🚀 **AI Engineer | Software Developer | Tech Innovator**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarkarumanchi&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarkarumanchi" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumarkarumanchi" alt="manojkumarkarumanchi" /></a> </p>
 
-## 👨‍💻 About Me
+- 🌱 I’m currently learning **Data and AI**
 
-- 🧠 Passionate about building real-world AI systems and scalable software solutions.
-- 🛠️ Experienced in **Generative AI, RAG, Agentic AI, NLP, and Data Engineering**.
-- 🌐 Skilled in Python, FastAPI, LangChain, Vertex AI, GCP, and more.
-- 🏆 Microsoft Certified: Azure AI Engineer Associate | Google Gen AI Academy Graduate.
-- 💡 I love solving meaningful problems and automating complex workflows.
-- 📈 Always learning, always shipping, always improving.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.manoj" height="30" width="40" /></a>
+<a href="https://medium.com/@manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manoj" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkumarkarumanchi&show_icons=true&locale=en&layout=compact" alt="manojkumarkarumanchi" /></p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkumarkarumanchi&show_icons=true&locale=en" alt="manojkumarkarumanchi" /></p>
 
----
-
-## 🌟 Featured Projects
-
-- **Voice Agent with MCP**: Real-time, natural voice-driven task execution platform.
-- **Multimodal Document Summarization**: Agentic RAG system for enterprise docs and videos.
-- **HR Assistant (Gemini, LangChain, Vertex AI)**: Automated 90% of employee support queries.
-- **Chat with SQL Data**: Natural language SQL with interactive visualizations and feedback.
-- **Reusable MCP Tools**: Internal PyPI modules for scalable AI deployment.
-
----
-
-## 📈 GitHub Stats
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojKumarKarumanchi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojKumarKarumanchi&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-karumanchi/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manojkumarkarumanchi7@gmail.com)
-[![Credly](https://img.shields.io/badge/-Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/manoj_kumar_karumanchi/badges)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917815844021)
-
----
-
-> “Clarity, execution, and innovation drive my work. Let's build something impactful together!”
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarkarumanchi&" alt="manojkumarkarumanchi" /></p>
