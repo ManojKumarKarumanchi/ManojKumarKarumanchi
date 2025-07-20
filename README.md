@@ -80,15 +80,20 @@
 ---
 ## 🏅 Certifications & Profiles
 
+## 🏅 Certifications & Profiles
+
 <p align="center">
   <a href="https://www.credly.com/users/manoj_kumar_karumanchi/badges" target="_blank">
     <img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Credly" width="40" height="40"/>
   </a>
+  <a href="https://g.dev/manojkumarkarumanchi" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiKWhPxA74e-yhLsH8nNlckBFrwLRNGj6lA&s" alt="Google Developer Profile" width="40" height="40"/>
+  </a>
   <a href="https://learn.microsoft.com/en-us/users/manojkumar-3635/transcript/dq4ewt5k5zwlpep" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="40" height="40"/>
   </a>
-  <a href="https://g.dev/manojkumarkarumanchi" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiKWhPxA74e-yhLsH8nNlckBFrwLRNGj6lA&s" alt="Google Developer Profile" width="40" height="40"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/4023879c-9e87-4966-b8a1-ca72400c18a9" target="_blank">
+    <img src="https://contentstatic.techgig.com/photo/msid-86991075,width-400,resizemode-4/Google-to-train-4-crore-freshers-in-cloud-computing-for-free.jpg" alt="Google Cloud Skills Boost" width="40" height="40"/>
   </a>
 </p>
 
