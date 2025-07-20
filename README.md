@@ -78,7 +78,6 @@
 </p>
 
 ---
-
 ## 🏅 Certifications & Profiles
 
 <p align="center">
@@ -87,6 +86,9 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/users/manojkumar-3635/transcript/dq4ewt5k5zwlpep" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" width="40" height="40"/>
+  </a>
+  <a href="https://g.dev/manojkumarkarumanchi" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiKWhPxA74e-yhLsH8nNlckBFrwLRNGj6lA&s" alt="Google Developer Profile" width="40" height="40"/>
   </a>
 </p>
 
