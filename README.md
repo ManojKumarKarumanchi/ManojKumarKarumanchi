@@ -78,7 +78,6 @@
 </p>
 
 ---
-## 🏅 Certifications & Profiles
 
 ## 🏅 Certifications & Profiles
 
